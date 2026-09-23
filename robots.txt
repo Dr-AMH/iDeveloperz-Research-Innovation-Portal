@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /course-planner/
+Disallow: /course-planner/storage/
+Disallow: /course-planner/vendor/
+Disallow: /course-planner/lib/
+Disallow: /course-planner/ajax/
+Sitemap: https://www.ideveloperz.com/sitemap.xml
