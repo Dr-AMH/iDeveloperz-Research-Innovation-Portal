@@ -1,0 +1,3 @@
+Contact: mailto:ayaz.hanif@fecid.paf-iast.edu.pk
+Canonical: https://www.ideveloperz.com/.well-known/security.txt
+Preferred-Languages: en
